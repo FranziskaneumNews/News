@@ -4,7 +4,7 @@ This is the first article. This article will be used to test the website and may
 
 ## Picture
 
-![alt text](/contents/2022-09-30-Hello World/image.png)
+![alt text](/contents/2022-09-30-Hello%20World/image.png)
 
 ## Code
 
